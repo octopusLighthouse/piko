@@ -1,0 +1,22 @@
+{
+  "name": "piko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octopusLighthouse/piko.git"
+  },
+  "author": "Robertas Bauras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octopusLighthouse/piko/issues"
+  },
+  "homepage": "https://github.com/octopusLighthouse/piko#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
