@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/octopusLighthouse/piko#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "base-64": "^0.1.0",
+    "express": "^4.16.3",
+    "microseconds": "^0.1.0",
+    "request": "^2.87.0"
   }
 }
